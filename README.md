@@ -14,6 +14,6 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Magren0321&show_icons=true" />
  </a>
   <a href="https://github.com/Magren0321">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magren0321&layout=compact" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magren0321&layout=compact" />
  </a>
 
