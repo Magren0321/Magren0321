@@ -1,4 +1,4 @@
-  ## Hi there, I'm [Magren](magren.cn). 👋
+  ## Hi there, I'm [Magren](https://magren.cn). 👋
   + 🚀 A Computer Engineering Undergraduate Student. & Open Source enthusiast.
   + ☕ Learning React, Vue, TS, Node.js, Sass…
   + ❤️ Like eating 🍮, playing 🎮 and sleeping. 🔋
@@ -10,7 +10,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Magren0321&show_icons=true" />
   </a>
   
-  + My blog : [Magren](magren.cn)
+  + My blog : [Magren](https://magren.cn)
   + Twitter : [Magren](https://twitter.com/Magren_lin)
   + E-mail : [zhuhenglin21@gmail.com](mailto:zhuhenglin21@gmail.com)
 
