@@ -1,7 +1,6 @@
   ## Hi there, I'm [Magren](https://magren.cn). 👋
   + 🚀 A Computer Engineering Undergraduate Student. & Open Source enthusiast.
   + ☕ Learning React, Vue, TS, Node.js, Sass…
-  + ❤️ Like eating 🍮, playing 🎮 and sleeping. 🔋
   + 📡 Want to be an interesting person.
 
   ## Find me 👇
