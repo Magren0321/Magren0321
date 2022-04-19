@@ -10,6 +10,6 @@
 
   ## My Github 💻
  <a href="https://github.com/Magren0321">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Magren0321&show_icons=true" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Magren0321&show_icons=true&hide=stars" />
  </a>
 
