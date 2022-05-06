@@ -5,6 +5,7 @@
 
   ## Find me 👇
   + My blog : [magren.cn](https://magren.cn)
+  + Telegram: [Magren](https://t.me/Magren_lin)
   + Twitter : [Magren](https://twitter.com/Magren_lin)
   + E-mail : [zhuhenglin21@gmail.com](mailto:zhuhenglin21@gmail.com)
 
