@@ -1,5 +1,5 @@
   ## Hi there, I'm [Magren](https://magren.cn). 👋
-  + 🚀 A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+  + 🚀 A ~~Computer Engineering Undergraduate Student~~ Software Development Engineer. & Open Source enthusiast.
   + ☕ Learning React, Vue, TS, Node.js, Sass…
   + 📡 Want to be an interesting person.
 
