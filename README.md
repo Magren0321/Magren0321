@@ -4,7 +4,7 @@
   + 📡 Want to be an interesting person.
 
   ## Find me 👇
-  + My blog : [magren.cn](https://magren.me)
+  + My blog : [magren.me](https://magren.me)
   + Telegram: [Magren](https://t.me/Magren_lin)
   + Twitter : [Magren](https://twitter.com/Magren_lin)
   + E-mail : [zhuhenglin21@gmail.com](mailto:zhuhenglin21@gmail.com)
