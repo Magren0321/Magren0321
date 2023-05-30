@@ -6,7 +6,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&weight=500&duration=3500&pause=2000&color=2795FF&width=435&height=30&lines=A+developer+who+code+for+fun+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://magren.me)
 
-![My Skills and tools](https://skillicons.dev/icons?i=vscode,js,ts,html,css,nextjs,react,vue,nuxtjs,electron,vite,webpack,rollupjs,sass,tailwind,nodejs,express,mongodb,go,docker,postman,git,github,stackoverflow,md)
+![My Skills and tools](https://skillicons.dev/icons?i=vscode,js,ts,html,css,nextjs,react,vue,nuxtjs,electron,vite,webpack,rollupjs,sass,tailwind,nodejs,express,mongodb,go,docker,vercel,postman,git,github,stackoverflow,md,figma)
 
   ## Find me 👇
   + My blog : [magren.cc](https://magren.cc)
