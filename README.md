@@ -1,3 +1,4 @@
+  ![banner](./img/banner.gif)
   ## Hi there, I'm [Magren](https://magren.cc). 👋
   
   + 🚀 A ~~Computer Engineering Undergraduate Student~~ Software Development Engineer. & Open Source enthusiast.
